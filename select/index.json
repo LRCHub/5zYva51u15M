@@ -1,0 +1,48 @@
+{
+  "version": 1,
+  "base_track": "ミッドナイト清純異性交遊",
+  "base_artist": "大森靖子",
+  "createdAt": "2026-01-04T16:43:21.950070Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "ミッドナイト清純異性交遊",
+      "artist": "Kaf",
+      "has_synced": false,
+      "path": "select/01_ミッドナイト清純異性交遊_Kaf.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "ミッドナイト清純異性交遊",
+      "artist": "Oomori, Seiko",
+      "has_synced": true,
+      "path": "select/02_ミッドナイト清純異性交遊_Oomori,_Seiko.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "ミッドナイト清純異性交遊",
+      "artist": "大森靖子",
+      "has_synced": true,
+      "path": "select/03_ミッドナイト清純異性交遊_大森靖子.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "ミッドナイト清純異性交遊",
+      "artist": "Seiko Oomori",
+      "has_synced": true,
+      "path": "select/04_ミッドナイト清純異性交遊_Seiko_Oomori.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "ミッドナイト清純異性交遊",
+      "artist": "大森靖子",
+      "has_synced": false,
+      "path": "select/pl_01_ミッドナイト清純異性交遊_大森靖子.txt"
+    }
+  ]
+}
